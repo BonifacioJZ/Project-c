@@ -1,0 +1,17 @@
+/home/bonifacio/Project/NET/app/App/bin/Debug/net7.0/App.deps.json
+/home/bonifacio/Project/NET/app/App/bin/Debug/net7.0/App.dll
+/home/bonifacio/Project/NET/app/App/bin/Debug/net7.0/App.pdb
+/home/bonifacio/Project/NET/app/App/bin/Debug/net7.0/Domain.dll
+/home/bonifacio/Project/NET/app/App/bin/Debug/net7.0/Persistence.dll
+/home/bonifacio/Project/NET/app/App/bin/Debug/net7.0/Domain.pdb
+/home/bonifacio/Project/NET/app/App/bin/Debug/net7.0/Persistence.pdb
+/home/bonifacio/Project/NET/app/App/obj/Debug/net7.0/App.csproj.AssemblyReference.cache
+/home/bonifacio/Project/NET/app/App/obj/Debug/net7.0/App.GeneratedMSBuildEditorConfig.editorconfig
+/home/bonifacio/Project/NET/app/App/obj/Debug/net7.0/App.AssemblyInfoInputs.cache
+/home/bonifacio/Project/NET/app/App/obj/Debug/net7.0/App.AssemblyInfo.cs
+/home/bonifacio/Project/NET/app/App/obj/Debug/net7.0/App.csproj.CoreCompileInputs.cache
+/home/bonifacio/Project/NET/app/App/obj/Debug/net7.0/App.csproj.CopyComplete
+/home/bonifacio/Project/NET/app/App/obj/Debug/net7.0/App.dll
+/home/bonifacio/Project/NET/app/App/obj/Debug/net7.0/refint/App.dll
+/home/bonifacio/Project/NET/app/App/obj/Debug/net7.0/App.pdb
+/home/bonifacio/Project/NET/app/App/obj/Debug/net7.0/ref/App.dll

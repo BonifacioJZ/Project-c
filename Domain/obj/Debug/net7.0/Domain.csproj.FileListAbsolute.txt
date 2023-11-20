@@ -1,0 +1,12 @@
+/home/bonifacio/Project/NET/app/Domain/bin/Debug/net7.0/Domain.deps.json
+/home/bonifacio/Project/NET/app/Domain/bin/Debug/net7.0/Domain.dll
+/home/bonifacio/Project/NET/app/Domain/bin/Debug/net7.0/Domain.pdb
+/home/bonifacio/Project/NET/app/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/home/bonifacio/Project/NET/app/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/bonifacio/Project/NET/app/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/home/bonifacio/Project/NET/app/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/home/bonifacio/Project/NET/app/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/home/bonifacio/Project/NET/app/Domain/obj/Debug/net7.0/Domain.dll
+/home/bonifacio/Project/NET/app/Domain/obj/Debug/net7.0/refint/Domain.dll
+/home/bonifacio/Project/NET/app/Domain/obj/Debug/net7.0/Domain.pdb
+/home/bonifacio/Project/NET/app/Domain/obj/Debug/net7.0/ref/Domain.dll

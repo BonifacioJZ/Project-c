@@ -1,0 +1,17 @@
+/home/bonifacio/Project/NET/app/Persistence/bin/Debug/net7.0/Persistence.deps.json
+/home/bonifacio/Project/NET/app/Persistence/bin/Debug/net7.0/Persistence.runtimeconfig.json
+/home/bonifacio/Project/NET/app/Persistence/bin/Debug/net7.0/Persistence.dll
+/home/bonifacio/Project/NET/app/Persistence/bin/Debug/net7.0/Persistence.pdb
+/home/bonifacio/Project/NET/app/Persistence/bin/Debug/net7.0/Domain.dll
+/home/bonifacio/Project/NET/app/Persistence/bin/Debug/net7.0/Domain.pdb
+/home/bonifacio/Project/NET/app/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache
+/home/bonifacio/Project/NET/app/Persistence/obj/Debug/net7.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/bonifacio/Project/NET/app/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache
+/home/bonifacio/Project/NET/app/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfo.cs
+/home/bonifacio/Project/NET/app/Persistence/obj/Debug/net7.0/Persistence.csproj.CoreCompileInputs.cache
+/home/bonifacio/Project/NET/app/Persistence/obj/Debug/net7.0/Persistence.csproj.CopyComplete
+/home/bonifacio/Project/NET/app/Persistence/obj/Debug/net7.0/Persistence.dll
+/home/bonifacio/Project/NET/app/Persistence/obj/Debug/net7.0/refint/Persistence.dll
+/home/bonifacio/Project/NET/app/Persistence/obj/Debug/net7.0/Persistence.pdb
+/home/bonifacio/Project/NET/app/Persistence/obj/Debug/net7.0/Persistence.genruntimeconfig.cache
+/home/bonifacio/Project/NET/app/Persistence/obj/Debug/net7.0/ref/Persistence.dll
